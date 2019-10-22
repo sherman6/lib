@@ -1,2 +1,2 @@
-# lib
+# library
 Coming Soon!
